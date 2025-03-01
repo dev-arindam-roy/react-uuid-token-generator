@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-uuid-token-generator/static/css/main.420e4d68.css",
+    "main.js": "/react-uuid-token-generator/static/js/main.bab808fe.js",
+    "static/js/453.db4a58f2.chunk.js": "/react-uuid-token-generator/static/js/453.db4a58f2.chunk.js",
+    "index.html": "/react-uuid-token-generator/index.html",
+    "main.420e4d68.css.map": "/react-uuid-token-generator/static/css/main.420e4d68.css.map",
+    "main.bab808fe.js.map": "/react-uuid-token-generator/static/js/main.bab808fe.js.map",
+    "453.db4a58f2.chunk.js.map": "/react-uuid-token-generator/static/js/453.db4a58f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.420e4d68.css",
+    "static/js/main.bab808fe.js"
+  ]
+}
